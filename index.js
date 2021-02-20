@@ -16,7 +16,7 @@ const lib = require('./lib/data');
 // }, (error) => {
 //   if (error) {
 //     console.log('Erorr: ', error);
-//   }
+//   }  
 // });
 
 // //*>read_data
